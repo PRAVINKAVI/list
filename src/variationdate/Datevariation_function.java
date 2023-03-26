@@ -11,7 +11,7 @@ public class Datevariation_function {
 	{
 		
 		this.vno=v1;
-		this.date=d1;
+		this.date=d2;
 		
 		if()
 		
